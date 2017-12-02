@@ -5,7 +5,7 @@
   <groupId>hello-akka-java</groupId>
   <artifactId>app</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
 
   <name>app</name>
   <url>http://maven.apache.org</url>
